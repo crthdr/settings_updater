@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<UserConfig>
+	<Group builder="Input" id="PCInput" displayName="controls_pc" tags="keybinds">
+		<VisibleVars>
+		
+<!-- SheatheSword begin -->
+<Var builder="Input" id="SwordSheathe" displayName="SwordSheathe" displayType="INPUTPC" actions="SwordSheathe;CiriHolsterWeapon" />
+<!-- SheatheSword end -->
+
+		</VisibleVars>
+	</Group>
+</UserConfig>

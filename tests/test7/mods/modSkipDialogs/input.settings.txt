@@ -1,0 +1,7 @@
+[Scene]
+IK_LShift=(Action=Sprint)
+IK_Pad_Y_TRIANGLE=(Action=SkipDialog)
+
+[SCENE_IS_STARTING_HACK]
+IK_Pad_Y_TRIANGLE=(Action=SkipDialog)
+

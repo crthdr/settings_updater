@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<UserConfig>
+	<Group builder="Input" id="PCInput" displayName="controls_pc" tags="keybinds">
+		<VisibleVars>
+<Var builder="Input" id="PauseGameToggle" displayName="PauseGameToggle" displayType="INPUTPC" actions="PauseGameToggle"/>
+<Var builder="Input" id="PinModuleModfier" displayName="PinModuleModfier" displayType="INPUTPC" actions="PinModuleModfier"/>
+<Var builder="Input" id="Toggle3DMarkers" displayName="Toggle3DMarkers" displayType="INPUTPC" actions="Toggle3DMarkers"/>
+<Var builder="Input" id="ToggleEssentials" displayName="ToggleEssentials" displayType="INPUTPC" actions="ToggleEssentials"/>
+<Var builder="Input" id="SwitchCrossbow" displayName="SwitchCrossbow" displayType="INPUTPC" actions="SwitchCrossbow"/>
+<Var builder="Input" id="HoldToSeeEssentials" displayName="HoldToSeeEssentials" displayType="INPUTPC" actions="HoldToSeeEssentials"/>
+<Var builder="Input" id="HoldToSeeCharStats" displayName="HoldToSeeCharStats" displayType="INPUTPC" actions="HoldToSeeCharStats"/>
+<Var builder="Input" id="HoldToSeeMap" displayName="HoldToSeeMap" displayType="INPUTPC" actions="HoldToSeeMap"/>
+<Var builder="Input" id="HoldToSeeQuests" displayName="HoldToSeeQuests" displayType="INPUTPC" actions="HoldToSeeQuests"/>
+<Var builder="Input" id="NightVision" displayName="keybind_nightvision" displayType="INPUTPC" actions="NightVision"/>
+<Var builder="Input" id="NightVisionBrightnessUp" displayName="NightVisionBrightnessUp" displayType="INPUTPC" actions="NightVisionBrightnessUp"/>
+<Var builder="Input" id="NightVisionBrightnessDown" displayName="NightVisionBrightnessDown" displayType="INPUTPC" actions="NightVisionBrightnessDown"/>
+
+		</VisibleVars>
+	</Group>
+</UserConfig>

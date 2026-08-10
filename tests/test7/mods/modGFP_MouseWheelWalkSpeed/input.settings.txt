@@ -1,0 +1,11 @@
+[Exploration]
+IK_MouseZ=(Action=GFP_ChangeWalkSpeed)
+
+[Exploration_Replacer_Ciri]
+IK_MouseZ=(Action=GFP_ChangeWalkSpeed)
+
+[Combat]
+IK_MouseZ=(Action=GFP_ChangeWalkSpeed)
+
+[Combat_Replacer_Ciri]
+IK_MouseZ=(Action=GFP_ChangeWalkSpeed)

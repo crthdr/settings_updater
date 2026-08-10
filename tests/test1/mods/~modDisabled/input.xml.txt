@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<UserConfig>
+	<Group builder="Input" id="PCInput" displayName="controls_pc" tags="keybinds">
+		<VisibleVars>
+		
+<Var builder="Input" id="~" displayName="~" displayType="INPUTPC" actions="~" />
+		</VisibleVars>
+	</Group>
+</UserConfig>

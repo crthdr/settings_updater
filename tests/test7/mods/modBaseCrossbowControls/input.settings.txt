@@ -1,0 +1,2 @@
+[ThrowHold]
+IK_Alt=(Action=Dodge)

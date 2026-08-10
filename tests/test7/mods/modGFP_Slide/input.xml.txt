@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<UserConfig>
+	<Group builder="Input" id="PCInput" displayName="controls_pc" tags="keybinds">
+		<VisibleVars>
+
+<!-- GFP_Slide begin -->
+<Var builder="Input" id="GFP_Slide" displayName="GFP_Slide"	displayType="INPUTPC" actions="GFP_Slide" />
+<!-- GFP_Slide end -->
+
+		</VisibleVars>
+	</Group>
+</UserConfig>

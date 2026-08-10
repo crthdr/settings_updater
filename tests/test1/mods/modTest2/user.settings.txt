@@ -1,0 +1,2 @@
+[WTF]
+bothtest=1

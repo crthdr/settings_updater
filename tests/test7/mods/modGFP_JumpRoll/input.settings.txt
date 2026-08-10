@@ -1,0 +1,14 @@
+
+[Combat]
+IK_None=(Action=Jump)
+
+[Combat_Replacer_Ciri]
+IK_None=(Action=Jump)
+
+[Exploration]
+IK_None=(Action=CbtRoll)
+IK_None=(Action=Dodge)
+
+[Exploration_Replacer_Ciri]
+IK_None=(Action=CiriDash)
+IK_None=(Action=CiriDodge)

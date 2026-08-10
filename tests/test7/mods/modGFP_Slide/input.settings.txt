@@ -1,0 +1,11 @@
+[Combat]
+IK_None=(Action=GFP_Slide)
+
+[Combat_Replacer_Ciri]
+IK_None=(Action=GFP_Slide)
+
+[Exploration]
+IK_None=(Action=GFP_Slide)
+
+[Exploration_Replacer_Ciri]
+IK_None=(Action=GFP_Slide)

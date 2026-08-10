@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<UserConfig>
+	<Group builder="Input" id="PCInput" displayName="controls_pc" tags="keybinds">
+		<VisibleVars>
+
+<!-- GFP_Strafe begin -->
+<Var builder="Input" id="GFP_LookAround" displayName="GFP_LookAround"	displayType="INPUTPC" actions="GFP_LookAround" />
+<!-- GFP_Strafe end -->
+
+		</VisibleVars>
+	</Group>
+</UserConfig>

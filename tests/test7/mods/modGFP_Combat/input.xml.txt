@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<UserConfig>
+	<Group builder="Input" id="PCInput" displayName="controls_pc" tags="keybinds">
+		<VisibleVars>
+
+<!-- GFP_Combat begin -->
+<Var builder="Input" id="GFP_ModifyAttackDistance" displayName="GFP_ModifyAttackDistance" displayType="INPUTPC" actions="GFP_ModifyAttackDistance" />
+<!-- GFP_Combat end -->
+
+		</VisibleVars>
+	</Group>
+</UserConfig>

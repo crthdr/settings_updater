@@ -1,0 +1,3 @@
+[EMPTY_CONTEXT]
+IK_Delete=(Action=HideRecipe)
+IK_Alt=(Action=HideRecipeAlt)

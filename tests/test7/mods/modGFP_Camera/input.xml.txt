@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<UserConfig>
+	<Group builder="Input" id="PCInput" displayName="controls_pc" tags="keybinds">
+		<VisibleVars>
+
+<!-- GFP begin -->
+<Var builder="Input" id="GFP_ChangeView"				displayName="GFP_ChangeView"				    displayType="INPUTPC" actions="GFP_ChangeView" />
+<Var builder="Input" id="GFP_Zoom"				        displayName="GFP_Zoom"							displayType="INPUTPC" actions="GFP_Zoom" />
+<Var builder="Input" id="GFP_InspectWeapon"			    displayName="GFP_InspectWeapon"					displayType="INPUTPC" actions="GFP_InspectWeapon" />
+<Var builder="Input" id="GFP_RotateWithVehicle"			displayName="GFP_RotateWithVehicle"				displayType="INPUTPC" actions="GFP_RotateWithVehicle" />
+<!-- GFP end -->
+
+		</VisibleVars>
+	</Group>
+</UserConfig>

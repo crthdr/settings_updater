@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<UserConfig>
+	<Group builder="Input" id="PCInput" displayName="controls_pc" tags="keybinds">
+		<VisibleVars>
+<Var builder="Input" id="NightVision" displayName="keybind_nightvision" displayType="INPUTPC" actions="NightVision"/>
+<Var builder="Input" id="NightVisionBrightnessUp" displayName="NightVisionBrightnessUp" displayType="INPUTPC" actions="NightVisionBrightnessUp"/>
+<Var builder="Input" id="NightVisionBrightnessDown" displayName="NightVisionBrightnessDown" displayType="INPUTPC" actions="NightVisionBrightnessDown"/>
+
+		</VisibleVars>
+	</Group>
+</UserConfig>

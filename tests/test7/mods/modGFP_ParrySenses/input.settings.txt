@@ -1,0 +1,8 @@
+[Exploration]
+IK_RightMouse=(Action=LockAndGuard)
+
+[Exploration_Replacer_Ciri]
+IK_RightMouse=(Action=LockAndGuard)
+
+[Combat]
+IK_RightMouse=(Action=Focus)

@@ -1,0 +1,2 @@
+[Gameplay/Boat]
+BoatSailingGearThreeMaxSpeed=12
